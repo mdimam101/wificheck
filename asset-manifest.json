@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wificheck/static/css/main.29cdb490.css",
+    "main.js": "/wificheck/static/js/main.d2db6ec4.js",
+    "static/js/787.f798b5dc.chunk.js": "/wificheck/static/js/787.f798b5dc.chunk.js",
+    "static/media/Wifi_lock.png": "/wificheck/static/media/Wifi_lock.615c9539ea36c9ce2d28.png",
+    "static/media/wifi.svg": "/wificheck/static/media/wifi.85bae13fafc255be53443fba90791935.svg",
+    "index.html": "/wificheck/index.html",
+    "static/media/ok.svg": "/wificheck/static/media/ok.92c4a5cbc808818c35d0343dfe448bc1.svg",
+    "main.29cdb490.css.map": "/wificheck/static/css/main.29cdb490.css.map",
+    "main.d2db6ec4.js.map": "/wificheck/static/js/main.d2db6ec4.js.map",
+    "787.f798b5dc.chunk.js.map": "/wificheck/static/js/787.f798b5dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cdb490.css",
+    "static/js/main.d2db6ec4.js"
+  ]
+}
