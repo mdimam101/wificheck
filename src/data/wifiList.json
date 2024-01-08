@@ -1,0 +1,57 @@
+[
+  {
+    "id":"01",
+    "name": "join_Spot",
+    "password": "join_Spot"
+  },
+  {
+    "id":"02",
+    "name": "yokohama_free",
+    "password": "yokohama_free"
+  },
+  {
+    "id":"03",
+    "name": "seven_wifi",
+    "password": "seven_wifi"
+  },
+  {
+    "id":"04",
+    "name": "Fsi0051",
+    "password": "Fsi0051"
+  },
+  {
+    "id":"05",
+    "name": "auto_space",
+    "password": "auto_space"
+  },
+  {
+    "id":"06",
+    "name": "nakaku_jone",
+    "password": "nakaku_jone"
+  },
+  {
+    "id":"07",
+    "name": "join_Spot1100",
+    "password": "join_Spot1100"
+  },
+  {
+    "id":"08",
+    "name": "Fsi15F",
+    "password": "Fsi15F"
+  },
+  {
+    "id":"09",
+    "name": "freeSpace",
+    "password": "freeSpace"
+  },
+  {
+    "id":"10",
+    "name": "kanagawaken",
+    "password": "kanagawaken"
+  },
+  {
+    "id":"11",
+    "name": "yokohama_group",
+    "password": "yokohama_group"
+  }
+]

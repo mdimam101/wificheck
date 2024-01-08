@@ -1,0 +1,55 @@
+.NavArea {
+    height:800px;
+    background-color:#a4a4a4;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 220px;
+    /* background-color: #f1f1f1; */
+    height: auto;
+    
+}
+
+li a{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:sans-serif;
+    padding-left: 25px;
+}
+
+li a.active  {
+    background-color: #04AA6D;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+  color: white;
+}
+li button{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:sans-serif;
+    padding-left: 25px;
+    width: 220px;
+    text-align: left;
+}
+button {
+    background-color:#a4a4a4 ;
+    border: none;
+    height: 40px;
+}
+
+li button:hover:not(.active) {
+    background-color: #555;
+  color: white;
+}

@@ -1,0 +1,26 @@
+.wifiListMainArea {
+    /* box-sizing: border-box; */
+    background:white;
+    margin: 7%;
+}
+
+
+
+/* .wifiIcone {
+    text-align: right;
+} */
+.styleDiv {
+    display:grid;
+    grid-template-columns: 7fr 0.5fr 0.5fr;
+    border: solid 1px black;
+    height: 40px;
+    width: 100%;
+    color: rgb(15, 14, 14);
+    /* vertical-align: middle; */
+    /* padding-left: 20px; */
+    /* text-align:justify; */
+}
+
+.styleDiv:hover {
+    background-color: #888888;
+}

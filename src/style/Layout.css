@@ -1,0 +1,31 @@
+.displayGrid {
+    display: grid;
+    margin: 0;
+    min-height: 100vh;
+    grid-template-rows: 40px 1fr 100px;
+    grid-template-columns: 220px 1fr;
+}
+
+.topArea {
+    grid-row: 1;
+    grid-column: 1 / span 2;
+    background: #faa;
+    /* border-radius: 10px 10px 0 0; */
+    /* height: 30px; */
+}
+.mainArea {
+    grid-row: 2;
+    grid-column: 2;
+    background: rgb(76, 78, 76);
+}
+.navArea {
+    grid-row: 2;
+    grid-column: 1;
+    background:white;
+}
+.fotterArea {
+    grid-row: 3;
+    grid-column: 1 / span 2;
+    background: #aaa;
+    border-radius: 0 0 10px 10px;
+}
